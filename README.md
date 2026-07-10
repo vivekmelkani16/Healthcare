@@ -7,16 +7,17 @@ CarePulse is a modern healthcare patient management application that allows pati
 🔗 https://your-vercel-url.vercel.app
 
 ## 📸 Screenshots
-
-<img width="1871" height="863" alt="image" src="https://github.com/user-attachments/assets/da97d6be-114b-4b2d-9522-d87a2a89ce24" />
-
-
-Example:
-
 - Home Page
+<img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/27b5d7fd-443f-4e52-8a35-d3d564db90eb" />
+
 - Patient Registration
+<img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/b0febbfd-b7cb-4466-abff-4d97f9274b70" />
+
 - Appointment Booking
+<img width="1871" height="856" alt="image" src="https://github.com/user-attachments/assets/9a7ac2a2-9f05-4821-814d-4be469bc9558" />
+
 - Admin Dashboard
+<img width="1867" height="860" alt="image" src="https://github.com/user-attachments/assets/728c3ad4-afde-4527-b8f8-f809c8d6edde" />
 
 ---
 
