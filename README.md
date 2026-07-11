@@ -110,26 +110,6 @@ http://localhost:3000
 
 ---
 
-## 🔑 Environment Variables
-
-Create a `.env.local` file and add:
-
-```env
-NEXT_PUBLIC_ENDPOINT=
-PROJECT_ID=
-DATABASE_ID=
-PATIENT_COLLECTION_ID=
-DOCTOR_COLLECTION_ID=
-APPOINTMENT_COLLECTION_ID=
-NEXT_PUBLIC_BUCKET_ID=
-NEXT_PUBLIC_ADMIN_PASSKEY=
-TWILIO_ACCOUNT_SID=
-TWILIO_AUTH_TOKEN=
-TWILIO_PHONE_NUMBER=
-```
-
-> Replace these values with your own credentials.
-
 ---
 
 ## 📦 Build
@@ -142,28 +122,6 @@ Run production
 
 ```bash
 npm start
-```
-
----
-
-## 📸 Screenshots
-
-You can upload screenshots like:
-
-```
-public/screenshots/home.png
-public/screenshots/register.png
-public/screenshots/admin.png
-```
-
-Then display them:
-
-```markdown
-![Home](public/screenshots/home.png)
-
-![Register](public/screenshots/register.png)
-
-![Admin](public/screenshots/admin.png)
 ```
 
 ---
@@ -192,4 +150,4 @@ This project is created for learning and portfolio purposes.
 
 GitHub: https://github.com/vivekmelkani16
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: www.linkedin.com/in/vivek-melkani-0a9a09276
