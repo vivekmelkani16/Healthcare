@@ -8,7 +8,7 @@ CarePulse is a modern healthcare patient management application that allows pati
 
 ## 📸 Screenshots
 - Home Page
-<img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/27b5d7fd-443f-4e52-8a35-d3d564db90eb" />
+<img width="1876" height="857" alt="Screenshot 2026-07-10 134546" src="https://github.com/user-attachments/assets/02b06425-6db1-4ed8-af61-d86e80db0bed" />
 
 - Patient Registration
 <img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/b0febbfd-b7cb-4466-abff-4d97f9274b70" />
